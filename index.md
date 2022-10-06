@@ -5,7 +5,7 @@
 
 ![](document/qr_code.jpg)
 
-##个人简介
+## 个人简介
 <table border="0">
   <tr>
     <td width="75%">
