@@ -5,8 +5,12 @@
 
 <table border="0">
   <tr>
+    <td width="25%">
+    </td>
     <td width="50%">
-      <img src="/1.jpg" width="75%">
+      <img src="/1.jpg" width="50%">
+    </td>
+    <td width="25%">
     </td>
   </tr>
 </table>
