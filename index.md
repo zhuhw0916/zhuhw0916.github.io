@@ -3,7 +3,7 @@
 2. 这个代码仓库里是收藏的源码、文件等
 3. 如果对您有帮助，请给个Star，谢谢您！
 <table border="0">
-  </tr>
+  <tr>
     </td>
     <td width="25%">
       <img src="/qr.jpg" height="10%">
