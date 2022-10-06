@@ -42,7 +42,7 @@
 * [分类模型](https://github.com/zhuhw0916/classification_models)
 * [中文自然语言处理模型](https://github.com/zhuhw0916/Chinese-ELECTRA)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhw0916&exclude_repo=github-readme-stats,zhuhw0916.github.io)](https://github.com/zhuhw0916/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhw0916&exclude_repo=zhuhw0916.github.io)](https://github.com/zhuhw0916/github-readme-stats)
 
 ## 比赛模型
 
