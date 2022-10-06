@@ -3,7 +3,7 @@
 2. 这个代码仓库里是收藏的源码、文件等
 3. 如果对您有帮助，请给个Star，谢谢您！
 
-![](document/qr_code.jpg)
+![](/qr_code.jpg)
 
 ## 个人简介
 <table border="0">
