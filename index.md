@@ -8,6 +8,7 @@
 <table border="0">
   <tr>
     <td width="25%">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhw0916)](https://github.com/zhuhw0916/github-readme-stats)
     </td>
     <td width="50%">
       <img src="/1.jpg" width="100%">
