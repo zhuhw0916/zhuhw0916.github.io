@@ -6,7 +6,7 @@
   </tr>
     </td>
     <td width="25%">
-      <img src="/qr.jpg" height="20%">
+      <img src="/qr.jpg" height="10%">
     </td>
   </tr>
 </table>
