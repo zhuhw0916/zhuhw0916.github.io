@@ -49,3 +49,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhw0916)](https://github.com/zhuhw0916/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhw0916&layout=compact)](https://github.com/zhuhw0916/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
