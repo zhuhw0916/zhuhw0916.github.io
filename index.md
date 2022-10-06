@@ -3,7 +3,15 @@
 2. 这个代码仓库里是收藏的源码、文件等
 3. 如果对您有帮助，请给个Star，谢谢您！
 
-![](1.jpg)
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/1.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 
 ## 个人简介
 <table border="0">
