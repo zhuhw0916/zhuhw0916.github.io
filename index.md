@@ -16,7 +16,7 @@
       <p><b>地址：大连国国王-夏骏的家里</b></p>
     </td>
     <td width="25%">
-      <img src="/实践团见面会照片.jpg" width="100%">      % 插入证件照代码
+      <img src="/实践团见面会照片.jpg" width="100%">
     </td>
   </tr>
 </table>
