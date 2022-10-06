@@ -9,7 +9,6 @@
     </td>
     <td width="50%">
       <img src="/1.jpg" width="100%">
-      [1.jpg](https://zhuhw0916.github.io/)
     </td>
     <td width="25%">
     </td>
